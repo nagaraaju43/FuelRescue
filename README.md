@@ -38,22 +38,22 @@ FuelRescue is a full-stack emergency assistance web application designed to help
 ## 📸 Application Screenshots
 
 ### 📝 User Registration
-![User Registration](assets/register.png)
+![User Registration](assets/Register.png)
 
 ---
 
 ### 🔐 User Login
-![User Login](assets/login.png)
+![User Login](assets/Login.png)
 
 ---
 
 ### 📊 User Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ---
 
 ### 🗺️ Nearby Petrol Pumps & Live Tracking
-![Nearby Petrol Pumps](assets/nearby-pumps.png)
+![Nearby Petrol Pumps](assets/Live.png)
 
 ---
 
