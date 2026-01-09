@@ -87,4 +87,4 @@ Live petrol pump data is sourced from public APIs which may be rate-limited or u
 
 ## 👨‍🎓 Author
 
-Developed as an intermediate-to-advanced full-stack learning project.
+AKAMBARAM NAGARAJU 
